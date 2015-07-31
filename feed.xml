@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gh/razorfinger</title>
+    <description>open source developer
+</description>
+    <link>https://razorfinger.github.io/</link>
+    <atom:link href="https://razorfinger.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Jul 2015 20:22:16 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2015 20:22:16 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hello, world</title>
+        <description>&lt;p&gt;This is the theme for a blog. I will update it when I have time.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>https://razorfinger.github.io/2015/07/30/first-post.html</link>
+        <guid isPermaLink="true">https://razorfinger.github.io/2015/07/30/first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
